@@ -1,4 +1,6 @@
 add new file hello.txt
+change by master
 from branch master new
 mirza ehtisham danish
 ali ahmed add by from-master branch
+add line by master
