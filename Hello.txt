@@ -7,3 +7,4 @@ add line by master
 
 
 1st branch changes
+from-master branch
