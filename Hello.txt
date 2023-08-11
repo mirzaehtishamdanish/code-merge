@@ -4,7 +4,7 @@ from branch master new
 mirza ehtisham danish
 ali ahmed add by from-master branch
 add line by master
-
-
+master branch value add
+change by master another time
 1st branch changes
 from-master branch
